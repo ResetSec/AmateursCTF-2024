@@ -17,7 +17,7 @@
 
 - Make the updates in the step below this one before performing your first push. 
 
-### 4. Update the event url in the .automation/Change-Me/event.txt with the ctf time link for the event. 
+### 4. Update the event url in the .automation/Change-Me/event.txt with the [CTF Time](https://ctftime.org/) link for the event. 
 
 - This is what allows the CTF Time API integration to auto-populate the details for the Top Level README.
 
