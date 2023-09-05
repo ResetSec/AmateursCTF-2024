@@ -1,4 +1,4 @@
-# How to use this Template
+# How to use this template
 
 ### 1. Create your own repo from this template 
 
@@ -6,10 +6,10 @@
 
 - Name the repo whatever you'd like, but including the name of the event is ideal ;D
 
-- Please keep the TOS of the event you are participating in mind. You may have to make this repo private during the event. 
+- Please keep the TOS of the event in which you are participating in mind. You may have to make this repo private during the event. 
   - This is also just good etiquette.
 
-### 2. You will likely need to update the Github Actions perms to allow read-write
+### 2. You will likely need to update the GitHub Actions perms to allow read-write
 
 - Select the repo -> Settings -> Actions -> General -> Workflow Permissions -> Read and write permissions
 
@@ -17,13 +17,13 @@
 
 - Make the updates in the step below this one before performing your first push. 
 
-### 4. Update the event url in the [.automation/Change-Me/event.txt](.automation/Change-Me/event.txt) with the [CTF Time](https://ctftime.org/) link for the event. 
+### 4. Update the event URL in the [.automation/Change-Me/event.txt](.automation/Change-Me/event.txt) with the [CTF Time](https://ctftime.org/) link for the event. 
 
-- This is what allows the CTF Time API integration to auto-populate the details for the Top Level README.
+- This allows the CTF Time API integration to auto-populate the details for the Top-Level README.
 
 ### 5. Start writing your write-ups!
 
-- There is an example write-up in the Crypto folder, it will give you some general guidance. 
+- There is an [example write-up](Crypto/Example/) in the Crypto folder; it will give you some general guidance. 
 
 ### 6. Include your incomplete research and write-ups too! 
 
