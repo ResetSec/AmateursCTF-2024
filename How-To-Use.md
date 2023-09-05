@@ -6,7 +6,7 @@
 
 - Name the repo whatever you'd like, but including the name of the event is ideal ;D
 
-- Please keep the TOS of the even you are participating in mind. You may have to make this repo private during the event. 
+- Please keep the TOS of the event you are participating in mind. You may have to make this repo private during the event. 
   - This is also just good etiquette.
 
 ### 2. You will likely need to update the Github Actions perms to allow read-write
