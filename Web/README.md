@@ -6,4 +6,3 @@ Every website has different programming languages and those programming language
 
 ## Challenges
 
-- ### [htaccess](<htaccess>)

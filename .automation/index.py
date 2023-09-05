@@ -13,18 +13,18 @@ SUB_DIRECTORY_LIST = [ y for x in DIRECTORY_LIST for y in glob.glob(os.path.join
 SUB_DIRECTORY_LIST.sort()
 # call the CTF Time API from the url in event.txt
 
-with open(os.path.join(AUTOMATION_DIR, 'event.txt'), 'r') as f:
+with open(os.path.join(AUTOMATION_DIR, 'Change-Me/event.txt'), 'r') as f:
     event_url = f.read()
     # generate the api url from the event url
     api_url = event_url.replace('ctftime.org/event/', 'ctftime.org/api/v1/events/')
 
 # get the event description from the api url
-r = httpx.get(api_url)
+r = httpx.get(api_url + '/')
 event_description = r.json()['description']
 event_name = r.json()['title']
 
 # Open the descriptions file and read the descriptions into a list
-with open(os.path.join(AUTOMATION_DIR, 'descriptions.json'), 'r') as f:
+with open(os.path.join(AUTOMATION_DIR, 'Read-Only/descriptions.json'), 'r') as f:
     descriptions = json.load(f)
 
 # generate the README.md file. 

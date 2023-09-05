@@ -51,16 +51,6 @@
         }
       },
       {
-        "name": "Networking",
-        "details": {
-          "description": "Navigate the intricate web of network protocols! Sniff out vulnerabilities, exploit services, and become the master of network ninja techniques.",
-          "resources": [
-            "Wireshark - The world's foremost network protocol analyzer: https://www.wireshark.org/",
-            "RouterSploit - Exploitation Framework for Embedded Devices: https://github.com/reverse-shell/routersploit"
-          ]
-        }
-      },
-      {
         "name": "Reverse",
         "details": {
           "description": "Unravel the mysteries of software's hidden secrets! Break through the digital enigma, dissect malware, and decipher the arcane languages of binaries.",
@@ -71,22 +61,12 @@
         }
       },
       {
-        "name": "Mobile Security",
+        "name": "OSINT",
         "details": {
-          "description": "Defend the realm of pocket-sized devices! Analyze the secrets of Android and iOS apps, and embark on epic quests to conquer mobile vulnerabilities.",
+          "description": "Open-source intelligence (OSINT) is the collection and analysis of data gathered from open sources (covert sources and publicly available information [PAI]) to produce actionable intelligence.",
           "resources": [
-            "Android Hacking Resources: https://github.com/ashishb/android-security-awesome",
-            "iOS Application Security Guide: https://github.com/ivRodriguezCA/awesome-ios-security"
-          ]
-        }
-      },
-      {
-        "name": "Hardware Hacking",
-        "details": {
-          "description": "Uncover the dark secrets of silicon and circuits! Examine the innards of hardware, exploit embedded systems, and rule over the kingdom of IoT devices.",
-          "resources": [
-            "Hackaday - A platform for hardware hackers: https://hackaday.com/",
-            "PlatformIO - An open-source ecosystem for IoT development: https://platformio.org/"
+            "OSINT Framework - A collection of OSINT tools: https://osintframework.com/",
+            "IntelTechniques - OSINT resources by Michael Bazzell: https://inteltechniques.com/"
           ]
         }
       },

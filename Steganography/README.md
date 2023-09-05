@@ -6,4 +6,3 @@ Discover the art of digital camouflage! Unmask the hidden messages, secret image
 
 ## Challenges
 
-- ### [Dorna](<Dorna>)

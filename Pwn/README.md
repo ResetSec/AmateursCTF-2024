@@ -6,5 +6,3 @@ Binaries, or executables, are machine code for a computer to execute. For the mo
 
 ## Challenges
 
-- ### [Status Page](<Status Page>)
-- ### [moedo](<moedo>)

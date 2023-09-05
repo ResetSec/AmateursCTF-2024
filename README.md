@@ -1,25 +1,16 @@
-# Urmia CTF 2023
+# Ghost in the Shellcode 2015
 
-https://ctftime.org/event/2067/
+https://ctftime.org/event/165
 
 ## Event Description
 
-Urmia CTF (UCTF) is a student-led cybersecurity competition organized by Urmia University and Urmia University of Technology.
-This CTF is geared more towards university students, but anyone may compete!
+<img src=https://ghostintheshellcode.com/2014-teaser/gtav-gitsv2.png>
 
 ## [Crypto](<Crypto>)
- * #### [Breaking AES](<Crypto/Breaking AES/>)
+## [Forensics](<Forensics>)
 ## [Misc](<Misc>)
- * #### [Farewell](<Misc/Farewell/>)
- * #### [Unlock](<Misc/Unlock/>)
- * #### [appellations](<Misc/appellations/>)
- * #### [insider's-secret](<Misc/insider's-secret/>)
+## [OSINT](<OSINT>)
 ## [Pwn](<Pwn>)
- * #### [Status Page](<Pwn/Status Page/>)
- * #### [moedo](<Pwn/moedo/>)
 ## [Reverse](<Reverse>)
- * #### [VerySuperMario](<Reverse/VerySuperMario/>)
 ## [Steganography](<Steganography>)
- * #### [Dorna](<Steganography/Dorna/>)
 ## [Web](<Web>)
- * #### [htaccess](<Web/htaccess/>)
