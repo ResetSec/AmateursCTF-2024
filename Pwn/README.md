@@ -6,3 +6,4 @@ Binaries, or executables, are machine code for a computer to execute. For the mo
 
 ## Challenges
 
+- ### [bearsay](<bearsay>)
