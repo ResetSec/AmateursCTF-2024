@@ -6,3 +6,6 @@ Every website has different programming languages and those programming language
 
 ## Challenges
 
+- ### [Agile-rut](<Agile-rut>)
+- ### [Denied](<Denied>)
+- ### [One-shot](<One-shot>)
