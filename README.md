@@ -14,7 +14,6 @@ AmateursCTF will also serve as a junior qualifier for DiceCTF!
 
 ## [Blockchain](<Blockchain>)
 ## [Crypto](<Crypto>)
- * #### [Example](<Crypto/Example/>)
 ## [Forensics](<Forensics>)
 ## [Misc](<Misc>)
  * #### [Bears-flagcord](<Misc/Bears-flagcord/>)
